@@ -1,0 +1,1 @@
+# cm5-disable-mmc0
